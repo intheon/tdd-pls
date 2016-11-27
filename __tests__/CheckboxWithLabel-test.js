@@ -13,7 +13,7 @@ it('CheckboxWithLabel changes the text after click', () => {
     <CheckboxWithLabel labelOn="On" labelOff="Off" />
   );
 
-  console.log("hi travis!");
+  console.log("hi travis!!!");
 
   const checkboxNode = ReactDOM.findDOMNode(checkbox);
 
